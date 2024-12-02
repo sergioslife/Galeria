@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval House Low Poly (For Gamedev)
+* source:	https://sketchfab.com/3d-models/medieval-house-low-poly-for-gamedev-07b3c4f707eb4f419170563ede3557e4
+* author:	Lesnyak (https://sketchfab.com/tikhon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval House Low Poly (For Gamedev)" (https://sketchfab.com/3d-models/medieval-house-low-poly-for-gamedev-07b3c4f707eb4f419170563ede3557e4) by Lesnyak (https://sketchfab.com/tikhon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
